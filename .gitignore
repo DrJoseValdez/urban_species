@@ -1,0 +1,14 @@
+# Input files
+*.zip
+
+
+# R history/data files
+.Rhistory
+.RData
+
+# System files
+*.DS_Store
+# Data files (there are several large files)
+
+# Background files
+resources/*
